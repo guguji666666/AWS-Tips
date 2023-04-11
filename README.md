@@ -15,4 +15,4 @@
 
 [Set up to connect to your instance](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/connection-prereqs.html#connection-prereqs-get-info-about-instance)
 
-![image](https://user-images.githubusercontent.com/96930989/231037954-d51e9b4a-1258-4c36-9f6b-24f10fcf94a1.png)
+![image](https://user-images.githubusercontent.com/96930989/231038428-269e1e24-9c78-44d2-956f-24adb555a885.png)
