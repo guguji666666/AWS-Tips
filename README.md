@@ -17,6 +17,20 @@
 
 ![image](https://user-images.githubusercontent.com/96930989/231038428-269e1e24-9c78-44d2-956f-24adb555a885.png)
 
+| AMI used to launch instance | Default username                   |
+|-----------------------------|------------------------------------|
+| Amazon Linux 2022          | ec2-user                           |
+| Amazon Linux 2             | ec2-user                           |
+| Amazon Linux               | ec2-user                           |
+| CentOS                     | centos or ec2-user                 |
+| Debian                     | admin                              |
+| Fedora                     | fedora or ec2-user                 |
+| RHEL                       | ec2-user or root                   |
+| SUSE                       | ec2-user or root                   |
+| Ubuntu                     | ubuntu                             |
+| Oracle                     | ec2-user                           |
+| Bitnami                    | bitnami                            |
+| Other                      | Check with the AMI provider        |
 
 ### 3. [Scheduled task for EC2 instances](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/monitoring-instances-status-check_sched.html#reschedule-event)
 
